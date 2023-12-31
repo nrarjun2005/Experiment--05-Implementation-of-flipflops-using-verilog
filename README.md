@@ -118,7 +118,7 @@ RegisterNumber:
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
+### RTL LOGIC FOR FLIPFLOPS N
 
 
 
